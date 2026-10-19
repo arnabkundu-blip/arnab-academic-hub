@@ -5,10 +5,10 @@ window.AK_STUDENTS = [
     "name": "Avik Banerjee",
     "group": "Historical student roster (SINP 2024)",
     "status": "Former / status to verify",
-    "affiliation": "Not independently verified for 2026",
+  //  "affiliation": "Not independently verified for 2026",
     "affiliationAsOf": null,
-    "source": "https://www.saha.ac.in/web/images/science_review/2024/Gr_C-Theoretical_Physics.pdf",
-    "sourceNote": "2017 SINP review and 2024 SINP group report",
+  //  "source": "https://www.saha.ac.in/web/images/science_review/2024/Gr_C-Theoretical_Physics.pdf",
+  //  "sourceNote": "2017 SINP review and 2024 SINP group report",
     "profile": "",
     "inspire": "https://inspirehep.net/authors?q=Avik%20Banerjee",
     "notes": ""
